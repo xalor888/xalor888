@@ -51,4 +51,9 @@
   <a href="https://github.com/xalor888">
     <img src="https://img.shields.io/badge/GitHub-xalor888-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <img src="https://img.shields.io/badge/%E4%BA%91%E6%B9%96-9569885-4C8DFF?style=for-the-badge" alt="云湖" />
+  <a href="https://wpa.qq.com/msgrd?v=3&amp;uin=244859055&amp;site=qq&amp;menu=yes">
+    <img src="https://img.shields.io/badge/QQ-244859055-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ" />
+  </a>
+  <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-xalor888-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="微信" />
 </p>
