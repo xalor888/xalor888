@@ -4,7 +4,7 @@
 
 > The future is now. Infinite. Relentless. Evolving
 
-🚀 热爱技术的开发者，专注于移动端、服务端与有趣的小项目。
+一个普普通通的学生开发者
 
 </div>
 
