@@ -53,4 +53,7 @@
     <img src="https://img.shields.io/badge/QQ-244859055-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ" />
   </a>
   <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-xalor888-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="微信" />
+  <a href="https://t.me/xalor888">
+    <img src="https://img.shields.io/badge/Telegram-xalor888-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </p>
