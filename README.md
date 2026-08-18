@@ -37,14 +37,6 @@
 
 ---
 
-## 📁 精选项目
-
-- 🐱 **[Maodouchat](https://github.com/xalor888/Maodouchat)** —— 安全、轻量的 Telegram/微信风格聊天应用（Android + Ktor 服务端 + Docker 部署）
-- 🤖 **[markai](https://github.com/xalor888/markai)** —— TypeScript 项目
-- 📝 **[xalorblog](https://github.com/xalor888/xalorblog)** —— Xalor 的小站
-
----
-
 ## 📫 联系我
 
 <p align="center">
