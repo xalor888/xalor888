@@ -52,9 +52,3 @@
     <img src="https://img.shields.io/badge/GitHub-xalor888-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
----
-
-<div align="center">
-  <sub>✨ 由 <a href="https://github.com/stats-organization/github-stats-extended">github-stats-extended</a> 强力驱动</sub>
-</div>
